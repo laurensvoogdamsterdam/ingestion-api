@@ -1,6 +1,10 @@
-Integrating Spring-boot in Scala.
-This project includes below features.
-1. Spring-boot annotation driven
-2. Swagger is integrated successfully
-3. Added profiling as well. 
-    You can see that, application.properties and application-prod.properties file.
+# Integration API using Spring-boot and Scala.
+
+## Quick Start
+
+## Table of Content
+
+- Spring-boot annotation driven
+- Swagger is integrated successfully
+- Added profiling as well.
+  You can see that, application.properties and application-prod.properties file.
